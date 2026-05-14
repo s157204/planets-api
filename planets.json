@@ -47,7 +47,7 @@
     "averageTemp": 15,
     "isHabitable": true,
     "discoveryDate": "0001-01-01",
-    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Earth-0.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/main/images/planet_Earth-0.jpg?raw=true",
     "planetType": "Terrestrial",
     "resources": ["Water", "Oxygen", "Nitrogen", "Minerals"],
     "systemInfo": {
