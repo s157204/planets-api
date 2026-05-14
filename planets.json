@@ -7,7 +7,7 @@
     "averageTemp": 167,
     "isHabitable": false,
     "discoveryDate": "1631-11-07",
-    "imageUrl": "",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Mercury-0.jpg",
     "planetType": "Terrestrial",
     "resources": ["Iron", "Sodium", "Magnesium"],
     "systemInfo": {
@@ -27,7 +27,7 @@
     "averageTemp": 464,
     "isHabitable": false,
     "discoveryDate": "1610-12-01",
-    "imageUrl": "https://example.com/images/venus.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Venus-0.jpg",
     "planetType": "Terrestrial",
     "resources": ["Sulfur", "Carbon Dioxide", "Basalt"],
     "systemInfo": {
@@ -67,7 +67,7 @@
     "averageTemp": -65,
     "isHabitable": false,
     "discoveryDate": "1610-01-01",
-    "imageUrl": "https://example.com/images/mars.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Mars-0.jpg",
     "planetType": "Terrestrial",
     "resources": ["Iron Oxide", "Ice", "Argon"],
     "systemInfo": {
@@ -87,7 +87,7 @@
     "averageTemp": -110,
     "isHabitable": false,
     "discoveryDate": "1610-01-07",
-    "imageUrl": "https://example.com/images/jupiter.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Jupiter-0.jpg",
     "planetType": "Gas Giant",
     "resources": ["Hydrogen", "Helium", "Ammonia"],
     "systemInfo": {
@@ -107,7 +107,7 @@
     "averageTemp": -140,
     "isHabitable": false,
     "discoveryDate": "1610-07-01",
-    "imageUrl": "https://example.com/images/saturn.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Saturn-0.jpg",
     "planetType": "Gas Giant",
     "resources": ["Hydrogen", "Ice", "Methane"],
     "systemInfo": {
@@ -127,7 +127,7 @@
     "averageTemp": -195,
     "isHabitable": false,
     "discoveryDate": "1781-03-13",
-    "imageUrl": "https://example.com/images/uranus.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Uranus0.jpg",
     "planetType": "Ice Giant",
     "resources": ["Water Ice", "Methane Ice", "Ammonia"],
     "systemInfo": {
@@ -147,7 +147,7 @@
     "averageTemp": -201,
     "isHabitable": false,
     "discoveryDate": "1846-09-23",
-    "imageUrl": "https://example.com/images/neptune.jpg",
+    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Neptune0.jpg",
     "planetType": "Ice Giant",
     "resources": ["Methane", "Deuterium", "Silicates"],
     "systemInfo": {
