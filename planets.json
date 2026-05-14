@@ -7,7 +7,7 @@
     "averageTemp": 167,
     "isHabitable": false,
     "discoveryDate": "1631-11-07",
-    "imageUrl": "https://github.com/s157204/planets-api/blob/06264e619f34c6b6ef172598b09ac8b35eb306b2/images/planet_Mercury-0.jpg",
+    "imageUrl": "[https://raw.githubusercontent.com/s157204/planets-api/main/images/planet_Mercury-0.jpg](https://raw.githubusercontent.com/s157204/planets-api/main/images/planet_Mercury-0.jpg)",
     "planetType": "Terrestrial",
     "resources": ["Iron", "Sodium", "Magnesium"],
     "systemInfo": {
