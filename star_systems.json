@@ -1,0 +1,18 @@
+[
+  {
+    "id": "SYS-001",
+    "name": "Solar System",
+    "starType": "Yellow Dwarf",
+    "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+    "ageBillions": 4.6,
+    "motto": "The Cradle of Humanity"
+  },
+  {
+    "id": "SYS-002",
+    "name": "Kuiper Belt Region",
+    "starType": "Sun (Outer Rim)",
+    "emblemUrl": "https://example.com/images/kuiper-belt-logo.jpg",
+    "ageBillions": 4.5,
+    "motto": "Beyond the Giant Frontier"
+  }
+]

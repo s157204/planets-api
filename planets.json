@@ -1,0 +1,262 @@
+[
+  {
+    "id": "PLN-001",
+    "name": "Mercury",
+    "description": "The smallest and closest planet to the Sun.",
+    "longDescription": "Mercury is a rocky planet with a surface scarred by craters, looking much like Earth's Moon. It has almost no atmosphere to retain heat, leading to extreme temperature swings.",
+    "averageTemp": 167,
+    "isHabitable": false,
+    "discoveryDate": "1631-11-07",
+    "imageUrl": "",
+    "planetType": "Terrestrial",
+    "resources": ["Iron", "Sodium", "Magnesium"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-002",
+    "name": "Venus",
+    "description": "Earth's evil twin with a runaway greenhouse effect.",
+    "longDescription": "Venus is the hottest planet in our solar system. Its thick atmosphere traps heat, and it rains sulfuric acid, making it a truly volcanic and hostile world.",
+    "averageTemp": 464,
+    "isHabitable": false,
+    "discoveryDate": "1610-12-01",
+    "imageUrl": "https://example.com/images/venus.jpg",
+    "planetType": "Terrestrial",
+    "resources": ["Sulfur", "Carbon Dioxide", "Basalt"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-003",
+    "name": "Earth",
+    "description": "Our home planet and the only known world with life.",
+    "longDescription": "Earth is an ocean world. Its unique atmosphere and liquid water make it the only place in the universe known to harbor life and complex ecosystems.",
+    "averageTemp": 15,
+    "isHabitable": true,
+    "discoveryDate": "0001-01-01",
+    "imageUrl": "https://example.com/images/earth.jpg",
+    "planetType": "Terrestrial",
+    "resources": ["Water", "Oxygen", "Nitrogen", "Minerals"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-004",
+    "name": "Mars",
+    "description": "The Red Planet, home to the largest volcano in the solar system.",
+    "longDescription": "Mars is a cold, desert world with a thin atmosphere. It is the focus of intense exploration for signs of ancient microbial life and potential colonization.",
+    "averageTemp": -65,
+    "isHabitable": false,
+    "discoveryDate": "1610-01-01",
+    "imageUrl": "https://example.com/images/mars.jpg",
+    "planetType": "Terrestrial",
+    "resources": ["Iron Oxide", "Ice", "Argon"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-005",
+    "name": "Jupiter",
+    "description": "A gas giant twice as massive as all other planets combined.",
+    "longDescription": "Jupiter is famous for its Great Red Spot, a giant storm larger than Earth. It lacks a solid surface and is composed mainly of hydrogen and helium.",
+    "averageTemp": -110,
+    "isHabitable": false,
+    "discoveryDate": "1610-01-07",
+    "imageUrl": "https://example.com/images/jupiter.jpg",
+    "planetType": "Gas Giant",
+    "resources": ["Hydrogen", "Helium", "Ammonia"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-006",
+    "name": "Saturn",
+    "description": "The jewel of the solar system, known for its dazzling rings.",
+    "longDescription": "Saturn is a gas giant with the most extensive ring system in the solar system, made of billions of small chunks of ice and rock.",
+    "averageTemp": -140,
+    "isHabitable": false,
+    "discoveryDate": "1610-07-01",
+    "imageUrl": "https://example.com/images/saturn.jpg",
+    "planetType": "Gas Giant",
+    "resources": ["Hydrogen", "Ice", "Methane"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-007",
+    "name": "Uranus",
+    "description": "An ice giant that rotates on its side.",
+    "longDescription": "Uranus has a unique tilt, making it appear to roll around the Sun. It is an extremely cold world with a faint ring system and 27 known moons.",
+    "averageTemp": -195,
+    "isHabitable": false,
+    "discoveryDate": "1781-03-13",
+    "imageUrl": "https://example.com/images/uranus.jpg",
+    "planetType": "Ice Giant",
+    "resources": ["Water Ice", "Methane Ice", "Ammonia"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-008",
+    "name": "Neptune",
+    "description": "The windiest world, dark, cold, and whipped by supersonic winds.",
+    "longDescription": "Neptune is the most distant major planet. It is 17 times the mass of Earth and has a thick atmosphere that gives it a beautiful deep blue color.",
+    "averageTemp": -201,
+    "isHabitable": false,
+    "discoveryDate": "1846-09-23",
+    "imageUrl": "https://example.com/images/neptune.jpg",
+    "planetType": "Ice Giant",
+    "resources": ["Methane", "Deuterium", "Silicates"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-009",
+    "name": "Ceres",
+    "description": "The largest object in the asteroid belt between Mars and Jupiter.",
+    "longDescription": "Ceres is a dwarf planet that contains a significant amount of water ice. It was the first dwarf planet visited by a spacecraft (Dawn).",
+    "averageTemp": -105,
+    "isHabitable": false,
+    "discoveryDate": "1801-01-01",
+    "imageUrl": "https://example.com/images/ceres.jpg",
+    "planetType": "Dwarf Planet",
+    "resources": ["Water Ice", "Carbonates", "Clays"],
+    "systemInfo": {
+      "id": "SYS-001",
+      "name": "Solar System",
+      "starType": "Yellow Dwarf",
+      "emblemUrl": "https://example.com/images/solar-system-logo.jpg",
+      "ageBillions": 4.6,
+      "motto": "The Cradle of Humanity"
+    }
+  },
+  {
+    "id": "PLN-010",
+    "name": "Pluto",
+    "description": "An icy world with mountains, valleys, and glaciers.",
+    "longDescription": "Once the ninth planet, Pluto is now the most famous dwarf planet. It has a complex surface and a thin atmosphere of nitrogen and methane.",
+    "averageTemp": -232,
+    "isHabitable": false,
+    "discoveryDate": "1930-02-18",
+    "imageUrl": "https://example.com/images/pluto.jpg",
+    "planetType": "Dwarf Planet",
+    "resources": ["Nitrogen Ice", "Carbon Monoxide", "Water Ice"],
+    "systemInfo": {
+      "id": "SYS-002",
+      "name": "Kuiper Belt Region",
+      "starType": "Sun (Outer Rim)",
+      "emblemUrl": "https://example.com/images/kuiper-belt-logo.jpg",
+      "ageBillions": 4.5,
+      "motto": "Beyond the Giant Frontier"
+    }
+  },
+  {
+    "id": "PLN-011",
+    "name": "Haumea",
+    "description": "A fast-spinning, football-shaped world in the Kuiper Belt.",
+    "longDescription": "Haumea rotates so fast that it has been stretched into an ellipsoid. It is one of the fastest rotating large objects in our solar system.",
+    "averageTemp": -241,
+    "isHabitable": false,
+    "discoveryDate": "2004-12-28",
+    "imageUrl": "https://example.com/images/haumea.jpg",
+    "planetType": "Dwarf Planet",
+    "resources": ["Crystalline Water Ice", "Ammonia"],
+    "systemInfo": {
+      "id": "SYS-002",
+      "name": "Kuiper Belt Region",
+      "starType": "Sun (Outer Rim)",
+      "emblemUrl": "https://example.com/images/kuiper-belt-logo.jpg",
+      "ageBillions": 4.5,
+      "motto": "Beyond the Giant Frontier"
+    }
+  },
+  {
+    "id": "PLN-012",
+    "name": "Makemake",
+    "description": "A reddish world covered in frozen ethane and methane.",
+    "longDescription": "Makemake is the second brightest object in the Kuiper Belt after Pluto. It lacks a substantial atmosphere and is extremely cold.",
+    "averageTemp": -243,
+    "isHabitable": false,
+    "discoveryDate": "2005-03-31",
+    "imageUrl": "https://example.com/images/makemake.jpg",
+    "planetType": "Dwarf Planet",
+    "resources": ["Ethane Ice", "Methane Ice", "Tholins"],
+    "systemInfo": {
+      "id": "SYS-002",
+      "name": "Kuiper Belt Region",
+      "starType": "Sun (Outer Rim)",
+      "emblemUrl": "https://example.com/images/kuiper-belt-logo.jpg",
+      "ageBillions": 4.5,
+      "motto": "Beyond the Giant Frontier"
+    }
+  },
+  {
+    "id": "PLN-013",
+    "name": "Eris",
+    "description": "One of the most massive dwarf planets, once thought to be the 10th planet.",
+    "longDescription": "Eris is a very distant, icy dwarf planet. Its discovery triggered the debate that led to the new definition of a planet and the reclassification of Pluto.",
+    "averageTemp": -243,
+    "isHabitable": false,
+    "discoveryDate": "2005-01-05",
+    "imageUrl": "https://example.com/images/eris.jpg",
+    "planetType": "Dwarf Planet",
+    "resources": ["Nitrogen Ice", "Methane Ice", "Frozen Gases"],
+    "systemInfo": {
+      "id": "SYS-002",
+      "name": "Kuiper Belt Region",
+      "starType": "Sun (Outer Rim)",
+      "emblemUrl": "https://example.com/images/kuiper-belt-logo.jpg",
+      "ageBillions": 4.5,
+      "motto": "Beyond the Giant Frontier"
+    }
+  }
+]
